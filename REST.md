@@ -98,4 +98,4 @@ Gets the forecast for the next 7 days.
                {"DATE":"20180607","TMAX":35.2,"TMIN":21.2}`
   
 * Sample Call:
-  * `requests.delete("URL/forecast/20180601")`
+  * `requests.get("URL/forecast/20180601")`
